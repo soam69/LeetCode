@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/count-total-number-of-colored-cells/description/
+
 #include <iostream>
 #include <math.h>
 using namespace std;
