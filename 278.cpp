@@ -8,6 +8,10 @@ using namespace std;
 
 class Solution {
     public:
+        bool isBadVersion(int version){
+            return true;                    // Not accurate function to the question
+        }
+
         int firstBadVersion(int n) {
             int low = 1;
             int high = n;
