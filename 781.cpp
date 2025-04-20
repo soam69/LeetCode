@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/rabbits-in-forest/description/
+
 #include <iostream>
 #include <vector>
 #include<cmath>
