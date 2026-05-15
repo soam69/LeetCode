@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/consecutive-characters/description/
+// https://leetcode.com/problems/consecutive-characters/
 
 #include <iostream>
 #include <vector>
